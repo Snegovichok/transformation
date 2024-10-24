@@ -4,10 +4,12 @@
 
 # Сборка и запуск:
 1. Скачать папку "transformation".
-2. Открыть терминал и перейти в папку "cd /transformation/build".
-3. cmake ..
-4. make
-5. ./YUV_BMP_Overlay
+2. Скачать YUV файл "park_joy_1080p50.yuv" по следующей ссылке "".
+3. Поместить файл "park_joy_1080p50.yuv" в папку "/transformation/build".
+4. Открыть терминал и перейти в папку "cd /transformation/build".
+5. cmake ..
+6. make
+7. ./YUV_BMP_Overlay
 
 # Результат: 
-В папке build должен появиться файл "output_video.yuv", его открыть в программе для чтения YUV формата.
+В папке build должен появиться файл "output_video.yuv", его можно открыть в любой программе для чтения YUV формата.
