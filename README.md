@@ -4,7 +4,7 @@
 
 # Сборка и запуск:
 1. Скачать папку "transformation".
-2. Скачать YUV файл "park_joy_1080p50.yuv" по следующей ссылке "".
+2. Скачать YUV файл "park_joy_1080p50.yuv" по следующей ссылке "https://clck.ru/3E9wwT".
 3. Поместить файл "park_joy_1080p50.yuv" в папку "/transformation/build".
 4. Открыть терминал и перейти в папку "cd /transformation/build".
 5. cmake ..
